@@ -1,0 +1,8 @@
+section {
+    height: 100vh;
+    width: 100%;
+    background-image: url("../photo-1678985690749-f3847eb01d2b.jpeg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

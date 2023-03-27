@@ -1,0 +1,36 @@
+h1 {
+    font-family: Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    background-color: #505050 ;
+    text-align: center;
+    font-size: 48px;
+}
+
+main p {
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+
+section p {
+    text-transform: lowercase;
+    text-decoration: underline;
+}
+
+h2 {
+    word-spacing: 30px;
+    letter-spacing: 4px;
+    color: lightgray;
+    text-shadow: -2px -3px 2px rgba(4, 0, 0, 1);
+}
+
+div {
+    background-color: darkgray;
+}
+
+ul li {
+    background-color: lightgray;
+
+}
+
+
+

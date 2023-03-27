@@ -1,0 +1,51 @@
+h1 {
+    color: white;
+    font-family: 'Shadows Into Light', serif;
+    background-color: black;
+    text-shadow: -2px -3px 2px rgba(170, 0, 0, 1);
+}
+
+h2 {
+    font-family: 'Pacifico', serif;
+    background-color: rgb(101, 191, 101);
+    word-spacing: 4px;
+
+}
+
+p strong{
+    color:yellow;
+}
+
+p em {
+    color: red;
+}
+
+h3 {
+    font-family: 'Lato', serif;
+    word-spacing: 4px;
+}
+
+main p {
+    word-spacing: 3px;
+
+}
+
+ol {
+    color: red;
+}
+
+h4 {
+    font-family:'Cinzel', serif;
+    background-color: yellow;
+    text-shadow: -3px 4px 2px rgba(121, 121, 121, 1);
+    word-spacing: 3px;
+}
+
+h5 {
+    text-transform: uppercase;
+    word-spacing: 3px;
+}
+
+ul {
+    background-color: grey;
+} 

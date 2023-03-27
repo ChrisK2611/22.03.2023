@@ -1,0 +1,16 @@
+div {
+
+    background-color: orange;
+}
+
+section {
+    background-color: lightblue;
+}
+
+article {
+    background-image: url("https://images.unsplash.com/photo-1677050610508-4240aa5abfc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3OTQ4ODI2Nw&ixlib=rb-4.0.3&q=80&w=1080");
+    width:100%;
+    height: 200px;
+
+    background-repeat: no-repeat;
+}
